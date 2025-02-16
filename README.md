@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a focus on buildin
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 ### **Tools & Platforms**
-- Databases: MySQL, PostgreSQL, MongoDB
+- Databases: SQL Server, MySQL, PostgreSQL, MongoDB
 - DevOps: Docker, AWS, Git, GitHub Actions
 - Testing: Jest, PHPUnit, PyTest
 - Other: RESTful APIs, GraphQL, Webpack
